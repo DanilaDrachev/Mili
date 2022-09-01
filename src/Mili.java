@@ -4,7 +4,7 @@ public class Mili {
         int bonus = 20; // 1 бонусная миля
         int mili = ticket / bonus;
 
-                System.out.println("Количство миль за билет");
+                System.out.println("Количество миль за билет");
                 System.out.println(mili + " миль");
 
             }
